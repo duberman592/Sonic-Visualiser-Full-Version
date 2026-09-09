@@ -241,3 +241,6 @@ This repository serves as the official landing page for Sonic Visualiser. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sonic Visualiser today!**
+
+---
+**Last updated:** 2026-09-09 14:55:58 UTC
