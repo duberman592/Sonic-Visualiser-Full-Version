@@ -243,4 +243,4 @@ This repository serves as the official landing page for Sonic Visualiser. The so
 **Get the most recent version of Sonic Visualiser today!**
 
 ---
-**Last updated:** 2026-10-28 21:27:31 UTC
+**Last updated:** 2026-10-29 01:26:17 UTC
